@@ -1,6 +1,2 @@
 node_modules
-.sass-cache
-style.comp.css
-style.concat.css
-style.css
-style.prefix.css
+css
